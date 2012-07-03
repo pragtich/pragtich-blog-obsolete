@@ -1,0 +1,8 @@
+site homedrive.ziggo.nl
+server homedrive.ziggo.nl
+remote /
+local ~/nanoc/pragtich/trunk/output/
+username pragtich@home.nl
+password 0ekev0ek
+protocol ftp
+exclude .DS_Store
