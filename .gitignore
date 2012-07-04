@@ -1,7 +1,9 @@
 # For projects using nanoc (http://nanoc.stoneship.org/)
 
 # Default location for output, needs to match output_dir's value found in config.yaml
-output/
+#
+# Commented this out for now: need output in feed to get github pages to work?
+#output/
 
 # Temporary file directory
 tmp/
